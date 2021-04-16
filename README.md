@@ -32,6 +32,13 @@ the sound of movies isn't lost in the closed captions.
 
 </details>
 
+## Concept
+
+My concept for Darice is to use `color`, `font weight` and `font size` in closed
+captions to convey emotion. `Music` and `sounds` will also be used in the closed
+captions to give a better experience to Darice when she is watching a
+serie/film.
+
 ## Test results
 
 ### Test results week 1
