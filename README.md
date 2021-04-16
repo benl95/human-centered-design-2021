@@ -36,10 +36,6 @@ the sound of movies isn't lost in the closed captions.
 
 ### Test results week 1
 
-<details>
-<summary>Results</summary>
-<br>
-
 **Conclusion**
 
 The closed captions should be minimalistic and varying in the size and weight of
@@ -49,13 +45,7 @@ For the full rest report visit:
 
 [Test report week 1](https://github.com/benl95/human-centered-design-2021/wiki/Testverslag---7-april)
 
-</details>
-
 ### Test results week 2
-
-<details>
-<summary>Results<summary>
-<br>
 
 **Conclusion**
 
@@ -69,5 +59,3 @@ Darice.
 For the full test report visit:
 
 [Test report week 2](https://github.com/benl95/human-centered-design-2021/wiki/Testverslag---14-april)
-
-</details>
