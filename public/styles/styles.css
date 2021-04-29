@@ -1,3 +1,24 @@
 video {
 	object-fit: cover;
 }
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 5em;
+}
+
+#audio {
+	display: none;
+}
+
+#canvas {
+	background-color: transparent;
+	position: absolute;
+	right: 30%;
+	top: 45%;
+	width: 5vw;
+	height: 8vw;
+}
