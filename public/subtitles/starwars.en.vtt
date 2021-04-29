@@ -9,156 +9,156 @@ STYLE
 
 STYLE
 ::cue(v) {
-   font-size: clamp(.7rem, 3vw, 3rem);
+   font-size: clamp(.3rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(b) {
   font-weight: bold;
-  font-size: clamp(.7rem, 3vw, 4rem)
+  font-size: clamp(.7rem, 3vw, 1.2rem)
 }
 
 STYLE
 ::cue(c.sound) {
-  font-size: clamp(.7rem, 3vw, 3rem)
+  font-size: clamp(.7rem, 2vw, 1rem)
 }
 
 STYLE
 ::cue(c.finn) {
   background-color: rgba(241, 86, 86, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.poe) {
   background-color: rgba(128, 255, 0, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.rey) {
   background-color: rgba(0, 0, 255, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.kylo) {
   background-color: rgba(153, 51, 255, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.darth-sidious) {
   background-color: rgba(255, 128, 0, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.robot) {
   background-color: rgba(255, 255, 0, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.chewbacca) {
   background-color: rgba(255, 0, 127, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.luke) {
   background-color: rgba(0, 255, 255, 0.33);
-  font-size: clamp(.7rem, 3vw, 3rem);
+  font-size: clamp(.7rem, 2vw, 1rem);
 }
 
 STYLE
 ::cue(c.music) {
-  font-size: clamp(.7rem, 3vw, 3rem)
+  font-size: clamp(.7rem, 2vw, 1rem)
 }
 
 NOTE Sound Subtitles----------------
 
-00:02.000 --> 00:08.000 align:middle size:35% bottom:20% line:13
-<c.sound>[Birds chirping in the jungle]</c>
+00:02.000 --> 00:08.000 align:middle size:35% bottom:20% line:11
+<c.sound>[Birds chirping]</c>
 
-01:06.000 --> 01:08.000 align:middle size:35% bottom:20% line:13
+01:06.000 --> 01:08.000 align:middle size:35% bottom:20% line:11
 <c.sound>[Light saber goes bzzzzzzzz]</c>
 
-01:08.500 --> 01:10.000 align:middle size:35% bottom:20% line:13
+01:08.500 --> 01:10.000 align:middle size:35% bottom:20% line:11
 <c.sound>[Motherfucking space explosion]</c>
 
-01:29.000 --> 01:30.000 align:middle size:35% bottom:20% line:13
+01:29.000 --> 01:30.000 align:middle size:35% bottom:20% line:11
 <c.sound>[Pew Pew Pew Pew]</c>
 
-01:44.000 --> 01:46.700 align:middle size:35% bottom:20% line:13
+01:44.000 --> 01:46.700 align:middle size:35% bottom:20% line:11
 <c.sound>[Riding some motherfucking Orbaks in space]</c>
 
 NOTE Music Subtitles----------------
 
-00:09.000 --> 02:18.700 align:right size:30% line:13
+00:09.000 --> 02:18.700 align:right size:30% line:11
 <c.music>&#x266B;  The Rise of Skywalker</c> 
 
 NOTE Subtitles----------------
 
-00:12.000 --> 00:14.000 align:middle size:35% bottom:20% line:13
+00:12.000 --> 00:14.000 align:middle size:35% bottom:20% line:11
 <c.finn>Finn:</c><v> Its, an instinct</v>
 
-00:18.000 --> 00:20.000 align:middle size:35% bottom:20% line:13
+00:18.000 --> 00:20.000 align:middle size:35% bottom:20% line:11
 <c.finn>Finn:</c><v> A feeling</v>
 
-00:22.000 --> 00:24.000 align:middle size:35% bottom:20% line:13
-<c.finn>Finn:</c><v> The force brougth us together</v>
+00:22.000 --> 00:24.000 align:middle size:35% bottom:20% line:11
+<c.finn>Finn:</c><v> The force brought us together</v>
 
-00:28.000 --> 00:29.500 align:middle size:35% bottom:20% line:13
+00:28.000 --> 00:29.500 align:middle size:35% bottom:20% line:11
 <c.poe>Poe Dameron:</c><v>  We're not alone.</v>
 
-00:31.000 --> 00:33.000 align:middle size:35% bottom:20% line:13
+00:31.000 --> 00:33.000 align:middle size:35% bottom:20% line:11
 <c.poe>Poe Dameron:</c><v>  Good people will fight if we <b>lead</b> them</v>
 
-00:37.000 --> 00:40.000 align:middle size:35% bottom:20% line:13
+00:37.000 --> 00:40.000 align:middle size:35% bottom:20% line:11
 <c.rey>Rey:</c><v>  People keep telling me they know me</v>
 
-00:41.000 --> 00:43.000 align:middle size:35% bottom:20% line:13
+00:41.000 --> 00:43.000 align:middle size:35% bottom:20% line:11
 <c.rey>Rey:</c><v>  No one does</v>
 
-00:45.000 --> 00:47.000 align:middle size:35% bottom:20% line:13
+00:45.000 --> 00:47.000 align:middle size:35% bottom:20% line:11
 <c.kylo>Kylo Ren:</c><v>  But <b>I</b> do</v>
 
-00:53.000 --> 00:56.000 align:middle size:35% bottom:20% line:13
+00:53.000 --> 00:56.000 align:middle size:35% bottom:20% line:11
 <c.darth-sidious>Darth Sidious:</c><v>  <b>Long</b> have I waited</v>
 
-00:58.000 --> 01:00.000 align:middle size:35% bottom:20% line:13
+00:58.000 --> 01:00.000 align:middle size:35% bottom:20% line:11
 <c.darth-sidious>Darth Sidious:</c><v>  And now</v>
 
-01:02.000 --> 01:04.000 align:middle size:35% bottom:20% line:13
+01:02.000 --> 01:04.000 align:middle size:35% bottom:20% line:11
 <c.darth-sidious>Darth Sidious:</c><v>  You're coming together</v>
 
-01:10.000 --> 01:12.000 align:middle size:35% bottom:20% line:13
+01:10.000 --> 01:12.000 align:middle size:35% bottom:20% line:11
 <c.darth-sidious>Darth Sidious:</c><v>  It's your undoing</v>
 
-01:15.500 --> 01:16.000 align:middle size:35% bottom:20% line:13
+01:15.500 --> 01:16.000 align:middle size:35% bottom:20% line:11
 <c.poe>Poe Dameron:</c><v>  What uuuh</v>
 
-01:16.000 --> 01:18.000 align:middle size:35% bottom:20% line:13
+01:16.000 --> 01:18.000 align:middle size:35% bottom:20% line:11
 <c.poe>Poe Dameron:</c><v>  What are you doing there 3PO?</v>
 
-01:19.000 --> 01:21.700 align:middle size:35% bottom:20% line:13
+01:19.000 --> 01:21.700 align:middle size:35% bottom:20% line:11
 <c.robot>3PO:</c><v>  Taking one last look sir</v>
 
-01:24.000 --> 01:26.000 align:middle size:35% bottom:20% line:13
+01:24.000 --> 01:26.000 align:middle size:35% bottom:20% line:11
 <c.robot>3PO:</c><v>  At my friends</v>
 
-01:26.500 --> 01:28.000 align:middle size:35% bottom:20% line:13
+01:26.500 --> 01:28.000 align:middle size:35% bottom:20% line:11
 <c.chewbacca>Chewbacca:</c><v>  <b>HERRNNGHHH</b></v>
 
-01:32.000 --> 01:36.000 align:middle size:35% bottom:20% line:13
+01:32.000 --> 01:36.000 align:middle size:35% bottom:20% line:11
 <c.luke>Luke Skywalker:</c><v>  Confronting fear is the destiny of a Jedi</v>
 
-01:41.000 --> 01:43.000 align:middle size:35% bottom:20% line:13
+01:41.000 --> 01:43.000 align:middle size:35% bottom:20% line:11
 <c.luke>Luke Skywalker:</c><v>  Your destiny</v>
 
-02:01.000 --> 02:03.000 align:middle size:35% bottom:20% line:13
+02:01.000 --> 02:03.000 align:middle size:35% bottom:20% line:11
 <c.luke>Luke Skywalker:</c><v>  The force will be with you</v>
 
-02:04.000 --> 02:06.000 align:middle size:35% bottom:20% line:13
+02:04.000 --> 02:06.000 align:middle size:35% bottom:20% line:11
 <c.luke>Luke Skywalker:</c><v>  <b>Always</b></v>
