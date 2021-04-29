@@ -39,7 +39,7 @@ window.addEventListener(
 
 		video.addEventListener('play', () => {
 			audio.play();
-			audio.resume();
+			context.resume();
 		});
 
 		video.addEventListener('pause', () => {
