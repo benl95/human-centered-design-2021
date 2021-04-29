@@ -11,7 +11,7 @@ let canvas,
 
 let audio = new Audio();
 
-audio.src = '/public/videos/starwars-trailer.mp4';
+audio.src = './public/videos/starwars-trailer.mp4';
 audio.controls = true;
 audio.loop = false;
 audio.autoplay = false;
@@ -39,6 +39,7 @@ window.addEventListener(
 
 		video.addEventListener('play', () => {
 			audio.play();
+			audio.resume();
 		});
 
 		video.addEventListener('pause', () => {
