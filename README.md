@@ -1,18 +1,3 @@
-# Human Centered Design
-
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is
-er goede interactie? Kan je 'mens' je product op een prettige manier bedienen?
-Wat voor principes heb je gebruikt en getest? En is het leuk?
-
-## Leerdoelen
-
--  _Leren hoe je (design) principles in een ontwerp kan toepassen._
--  _User needs begrijpen en gebruiken in je ontwerp._
--  _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van
-   je ontwerp._
-
-[Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
-
 ## Debriefing
 
 <details>
