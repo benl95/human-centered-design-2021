@@ -19,10 +19,21 @@ the sound of movies isn't lost in the closed captions.
 
 ## Concept
 
-My concept for Darice is to use `color`, `font weight` and `font size` in closed
-captions to convey emotion. `Music` and `sounds` will also be used in the closed
-captions to give a better experience to Darice when she is watching a
-serie/film.
+For the final concept for Darice I've made closed captions using WebVTT. In the closed captions I will use `color` to differentiate between characters, `font-weight` and `font-size` to convey emotions and put emphasis on certain words and lastly I've implemented a equalizer to give feedback to Darice how loud the sound is at any moment in the film.
+
+## Why this concept?
+
+### Ignoring conventions
+
+By ignoring the conventions you make it possible to design a product that caters to the needs of one person. In my case, this is Darice. Since Darice is a front-end developer herself, it was hard to ignore conventions because Darice likes to put emphasis on conventions. The way I ignored conventions is by using `color`, `font-weight` and `font-size` in the closed captions. These are currentley not used in closed captions, but because Darice is deaf these features will make the experience for Darice better. It is also a convention to indicate silence with closed captions in a movie but Darice said this isn't necesarry for her so I didn't implement this in the closed captions.
+
+### Prioritise identity
+
+Darice likes to watch sci-fi and is a massive fan of the serie Friends. Since Darice is into sci-fi I decided to use the Star Wars movie for the closed captions since I think this will be closer to herself. Since Darice is deaf I decided to implement an equalizer into the closed captions. This makes it possible for Darice to get a better understanding when there is silence in a movie and when there is sound. I also tried to mostly follow the conventions since Darice likes these and sprinkled some features into the closed captions that cater more to Darice.
+
+### Add nonsense
+
+Since Darice likes to put emphasis on conventions in her designs, it was pretty hard to add nonsense to the product that is specifically for her. I added nonsense by describing some sound effects in the movie in a funny way. Since Darice won't be able to hear these sounds I thought it would be fun to give her a good laugh instead sometimes.  
 
 ## Test results
 
