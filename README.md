@@ -26,7 +26,10 @@ words and lastly I've implemented a equalizer to give feedback to Darice how
 loud the sound is at any moment in the film.
 
 -  [Live version](https://darice-closed-captions.netlify.app/)
--  [Recording of live version]('./public/videos/screen-capture-equalizer.mp4')
+
+The equalizer wont be visible on some screens since its positioned with `position: absolute`. See the recording of the equalizer below:
+
+https://user-images.githubusercontent.com/43675725/116683269-a0f95d80-a9af-11eb-90d6-c57dbba57b73.mp4
 
 ## Why this concept?
 
