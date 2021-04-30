@@ -27,9 +27,9 @@ loud the sound is at any moment in the film.
 
 -  [Live version](https://darice-closed-captions.netlify.app/)
 
-The equalizer wont be visible on some screens since its positioned with `position: absolute`. See the recording of the equalizer below:
+The equalizer wont be visible on some screens since its positioned with `position: absolute`. See the recording of the prototype below:
 
-https://user-images.githubusercontent.com/43675725/116683269-a0f95d80-a9af-11eb-90d6-c57dbba57b73.mp4
+[Screen recording of prototype](https://www.youtube.com/watch?v=qtLMbfR6TaE)
 
 ## Why this concept?
 
