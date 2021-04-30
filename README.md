@@ -19,21 +19,56 @@ the sound of movies isn't lost in the closed captions.
 
 ## Concept
 
-For the final concept for Darice I've made closed captions using WebVTT. In the closed captions I will use `color` to differentiate between characters, `font-weight` and `font-size` to convey emotions and put emphasis on certain words and lastly I've implemented a equalizer to give feedback to Darice how loud the sound is at any moment in the film.
+For the final concept for Darice I've made closed captions using WebVTT. In the
+closed captions I will use `color` to differentiate between characters,
+`font-weight` and `font-size` to convey emotions and put emphasis on certain
+words and lastly I've implemented a equalizer to give feedback to Darice how
+loud the sound is at any moment in the film.
 
 ## Why this concept?
 
 ### Ignoring conventions
 
-By ignoring the conventions you make it possible to design a product that caters to the needs of one person. In my case, this is Darice. Since Darice is a front-end developer herself, it was hard to ignore conventions because Darice likes to put emphasis on conventions. The way I ignored conventions is by using `color`, `font-weight` and `font-size` in the closed captions. These are currentley not used in closed captions, but because Darice is deaf these features will make the experience for Darice better. It is also a convention to indicate silence with closed captions in a movie but Darice said this isn't necesarry for her so I didn't implement this in the closed captions.
+By ignoring the conventions you make it possible to design a product that caters
+to the needs of one person. In my case, this is Darice. Since Darice is a
+front-end developer herself, it was hard to ignore conventions because Darice
+likes to put emphasis on conventions. The way I ignored conventions is by using
+`color`, `font-weight` and `font-size` in the closed captions. These are
+currentley not used in closed captions, but because Darice is deaf these
+features will make the experience for Darice better. It is also a convention to
+indicate silence with closed captions in a movie but Darice said this isn't
+necesarry for her so I didn't implement this in the closed captions.
+
+Using color to differentiate between characters: <br>
+<img width="1003" alt="Schermafbeelding 2021-04-30 om 12 11 57" src="https://user-images.githubusercontent.com/43675725/116681581-71e1ec80-a9ad-11eb-8a03-cb8b03958866.png">
+
+Using font-weight and font-size to put emphasis on a word: <br>
+<img width="1000" alt="Schermafbeelding 2021-04-30 om 12 11 01" src="https://user-images.githubusercontent.com/43675725/116681540-64c4fd80-a9ad-11eb-89a2-3c9f6e2ea1c1.png">
 
 ### Prioritise identity
 
-Darice likes to watch sci-fi and is a massive fan of the serie Friends. Since Darice is into sci-fi I decided to use the Star Wars movie for the closed captions since I think this will be closer to herself. Since Darice is deaf I decided to implement an equalizer into the closed captions. This makes it possible for Darice to get a better understanding when there is silence in a movie and when there is sound. I also tried to mostly follow the conventions since Darice likes these and sprinkled some features into the closed captions that cater more to Darice.
+Darice likes to watch sci-fi and is a massive fan of the serie Friends. Since
+Darice is into sci-fi I decided to use the Star Wars movie for the closed
+captions since I think this will be closer to herself. Since Darice is deaf I
+decided to implement an equalizer into the closed captions. This makes it
+possible for Darice to get a better understanding when there is silence in a
+movie and when there is sound. I also tried to mostly follow the conventions
+since Darice likes these and sprinkled some features into the closed captions
+that cater more to Darice.
+
+Adding a equalizer to indicate when there is sound or no sound: <br>
+<img width="998" alt="Schermafbeelding 2021-04-30 om 12 10 22" src="https://user-images.githubusercontent.com/43675725/116681519-5f67b300-a9ad-11eb-908d-008668968d64.png">
 
 ### Add nonsense
 
-Since Darice likes to put emphasis on conventions in her designs, it was pretty hard to add nonsense to the product that is specifically for her. I added nonsense by describing some sound effects in the movie in a funny way. Since Darice won't be able to hear these sounds I thought it would be fun to give her a good laugh instead sometimes.  
+Since Darice likes to put emphasis on conventions in her designs, it was pretty
+hard to add nonsense to the product that is specifically for her. I added
+nonsense by describing some sound effects in the movie in a funny way. Since
+Darice won't be able to hear these sounds I thought it would be fun to give her
+a good laugh instead sometimes.
+
+Describing noise effects in a silly way: <br>
+<img width="1000" alt="Schermafbeelding 2021-04-30 om 12 11 22" src="https://user-images.githubusercontent.com/43675725/116681554-68f11b00-a9ad-11eb-92e8-2f2d33d381d0.png">
 
 ## Test results
 
@@ -65,10 +100,14 @@ For the full test report visit:
 
 ### Test results week 3
 
-For the full test report visit: 
+For the full test report visit:
 
 **Conclusion**
 
-Colors shouldn't be used to convey emotions but used to differantiate characters. To convey emotions I will be using `font weight` and `font size` for some words to put more emphasis on them. Music and sound captions should be displayed in the bottom of the screen to make the reading experience for Darice more pleasurable. An equalizer is also effective to indicate silence to Darice
+Colors shouldn't be used to convey emotions but used to differantiate
+characters. To convey emotions I will be using `font weight` and `font size` for
+some words to put more emphasis on them. Music and sound captions should be
+displayed in the bottom of the screen to make the reading experience for Darice
+more pleasurable. An equalizer is also effective to indicate silence to Darice
 
 [Test report week 3](https://github.com/benl95/human-centered-design-2021/wiki/Testverslag-21-april)
