@@ -25,6 +25,9 @@ closed captions I will use `color` to differentiate between characters,
 words and lastly I've implemented a equalizer to give feedback to Darice how
 loud the sound is at any moment in the film.
 
+-  [Live version](https://darice-closed-captions.netlify.app/)
+-  [Recording of live version]('./public/videos/screen-capture-equalizer.mp4')
+
 ## Why this concept?
 
 ### Ignoring conventions
