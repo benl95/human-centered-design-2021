@@ -62,3 +62,13 @@ Darice.
 For the full test report visit:
 
 [Test report week 2](https://github.com/benl95/human-centered-design-2021/wiki/Testverslag---14-april)
+
+### Test results week 3
+
+For the full test report visit: 
+
+**Conclusion**
+
+Colors shouldn't be used to convey emotions but used to differantiate characters. To convey emotions I will be using `font weight` and `font size` for some words to put more emphasis on them. Music and sound captions should be displayed in the bottom of the screen to make the reading experience for Darice more pleasurable. An equalizer is also effective to indicate silence to Darice
+
+[Test report week 3](https://github.com/benl95/human-centered-design-2021/wiki/Testverslag-21-april)
